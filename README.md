@@ -1,6 +1,3 @@
-
-![bannière mail](https://github.com/carolinhng/carolinhng/assets/146070486/42670846-5cda-4013-aa59-7f1cbed72b74)
-
 - 👋 Hi, my name is Caroline Nguyen!
 - 👀 When I'm not coding, I like to play sports, travel when I can, observe the sky with my telescope and enjoy nature while hiking.
 - 🌱 I am currently learning Ruby and Javascript.
